@@ -1,0 +1,18 @@
+ .link-a {
+     border:none;
+     color:white;
+      background-color: Transparent;
+      margin-left:10px;
+      cursor:pointer;
+ }
+ .link-a:hover{
+      text-decoration: underline;
+ }
+     body {
+  background-image: url("valorant hmtl logo.jpg");
+  background-repeat: no-repeat;
+  background-position: right top;
+  background-attachment: fixed;
+}
+
+
